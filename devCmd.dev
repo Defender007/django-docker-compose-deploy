@@ -2,3 +2,6 @@
 # and map it to app directory on host as configured in docker-compose.yml
 # -- rm remove the container immediately after run...
 docker-compose run --rm app sh -c "django-admin startproject app ."
+
+
+Video tutorial paused at -22:46 mins
